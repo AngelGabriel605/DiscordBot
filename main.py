@@ -1,4 +1,4 @@
-# In "main.py"
+# En "main.py"
 import discord
 from discord.ext import commands
 
@@ -9,5 +9,5 @@ client = commands.Bot(command_prefix='!', intents=intents)
 async def hey(ctx):
     await ctx.send(f'Hey!, {ctx.author.name}!')
 
-# When you paste your token, don't forget to remove the quotes
+# Cuando reemplaze TOKEN por su token, NO elimine las comillas('')
 client.run('TOKEN')
