@@ -1,22 +1,22 @@
-# DiscordBot
-Create a discord bot using python
+### DiscordBot
+Crea un bot de discord usando python
 
-# Create the bot
-1. Go to https://discord.com/developers/applications
-2. Press "New Application", you can choose the name that you like best and do not forget to accept the terms and conditions
-3. Choose the photo and information you like
-4. Go to "Bot" and press "Add Bot"
-5. Activate all intents and copy the token
-6. Go to OAuth2, enter the "URL Generator" section
-7. Choose "Bot" and give the bot admin permission, copy the URL
-8. Enter the URL and follow the steps to add the bot to your server
-9. The bot will be inactive, follow the steps below to make the bot work
+### Crea el bot
+1. Ir a https://discord.com/developers/applications
+2. Presiona "New Application", puedes elegir el nombre que más te guste y no olvides aceptar los términos y condiciones
+3. Elige la foto y la información que te gusta
+4. Ve a "Bot" y presiona "Add Bot"
+5. Activa todos los intentos y copia el token
+6. Vaya a OAuth2, ingrese a la sección "URL Generator"
+7. Elija "Bot" y otorgue permiso de administrador al bot, copie la URL
+8. Ingrese la URL y siga los pasos para agregar el bot a su servidor
+9. El bot estará inactivo, siga los pasos a continuación para que el bot funcione
 
-# Without downloading anything
-1. Create an account at https://replit.com
-2. Create a new repl choosing python as template and write the name you like
-3. In main.py, enter the code of the file that I left you in this repository
-4. Replace "token" with the bot token you created earlier
-5. Press "Run" and enjoy the bot
+### Sin descargar nada
+1. Crea una cuenta en https://replit.com
+2. Cree un nuevo proyecto eligiendo python como plantilla y escriba el nombre que desee
+3. En main.py, ingresa el código del archivo que te dejé en este repositorio
+4. Reemplace "TOKEN" con el token del bot que creó anteriormente
+5. Presiona "Run" y disfruta del bot
 
-# Coming soon how to host the bot 24/7
+### Próximamente cómo alojar el bot 24/7
