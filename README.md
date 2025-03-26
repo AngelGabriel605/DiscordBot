@@ -13,7 +13,7 @@ Crea un bot de discord usando python
 9. El bot estará inactivo, siga los pasos a continuación para que el bot funcione
 
 ### Sin descargar nada
-1. Crea una cuenta en https://replit.com
+1. Crea una cuenta en [Replit]([url](https://replit.com))
 2. Cree un nuevo proyecto eligiendo python como plantilla y escriba el nombre que desee
 3. En main.py, ingresa el código del archivo que te dejé en este repositorio
 4. Reemplace "TOKEN" con el token del bot que creó anteriormente
